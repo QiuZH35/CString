@@ -1,0 +1,4 @@
+﻿  strset.c
+D:\vs2017Data\21.字符串与静态库\strset函数\strset函数\strset.c(11,19): warning C4047: “!=”:“int”与“void *”的间接级别不同
+D:\vs2017Data\21.字符串与静态库\strset函数\strset函数\strset.c(11,32): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  strset函数.vcxproj -> D:\vs2017Data\21.字符串与静态库\strset函数\x64\Debug\strset函数.exe

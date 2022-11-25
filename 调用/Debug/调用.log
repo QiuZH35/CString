@@ -1,0 +1,3 @@
+﻿  main.c
+d:\vs2017data\21.字符串与静态库\调用\main.c(10): warning C4013: “openweschat”未定义；假设外部返回 int
+  调用.vcxproj -> D:\vs2017Data\21.字符串与静态库\静态库编写\Debug\调用.exe

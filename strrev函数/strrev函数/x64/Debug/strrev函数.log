@@ -1,0 +1,3 @@
+﻿  字符串逆转.c
+D:\vs2017Data\21.字符串与静态库\strrev函数\strrev函数\字符串逆转.c(10,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  strrev函数.vcxproj -> D:\vs2017Data\21.字符串与静态库\strrev函数\x64\Debug\strrev函数.exe
